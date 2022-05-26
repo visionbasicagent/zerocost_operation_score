@@ -1,0 +1,19 @@
+2022-05-24 12:33:29,996 gpu device = 0
+2022-05-24 12:33:29,996 args = Namespace(arch_learning_rate=0.0003, arch_weight_decay=0.001, batch_size=128, cutout=False, cutout_length=16, cutout_prob=1.0, data='../data', debug=False, drop_path_prob=0.3, epochs=50, gpu=0, grad_clip=5, init_channels=16, layers=9, learning_rate=0.025, learning_rate_min=0.001, model_path='saved_models', momentum=0.9, output_weights=True, pool_size=1, report_freq=50, save='experiments/zc_prop_2022/search_space_2/search-EXP_ORI-20220524-123329-3-2-1', search_space='2', seed=3, train_portion=0.5, unrolled=False, warm_start_epochs=0, weight_decay=0.0003)
+2022-05-24 12:33:31,401 param size = 1.101402MB
+2022-05-24 12:33:32,106 [0, 1, 2, 3]
+2022-05-24 12:33:32,148 current edge 0
+2022-05-24 12:33:33,085 op_scores[1546.1743, 1572.8618, 1571.958]
+2022-05-24 12:33:33,434 op_scores[1546.2573, 1565.6693, 1565.4237]
+2022-05-24 12:33:33,768 op_scores[1550.6968, 1560.8231, 1561.2275]
+2022-05-24 12:33:34,102 op_scores[1552.598, 1559.9017, 1560.5122]
+2022-05-24 12:33:34,180 current edge 1
+2022-05-24 12:33:34,516 op_scores[1565.4784, 1586.3878, 1586.2207]
+2022-05-24 12:33:34,884 op_scores[1571.5375, 1580.9851, 1580.3352]
+2022-05-24 12:33:35,218 op_scores[1573.2609, 1579.5796, 1579.4653]
+2022-05-24 12:33:35,295 current edge 2
+2022-05-24 12:33:35,629 op_scores[1578.3304, 1589.5106, 1589.2507]
+2022-05-24 12:33:36,028 op_scores[1581.2383, 1587.4113, 1587.5469]
+2022-05-24 12:33:36,104 current edge 3
+2022-05-24 12:33:36,438 op_scores[1585.7177, 1591.9875, 1592.5343]
+2022-05-24 12:33:36,439 ['3', '4', '2']

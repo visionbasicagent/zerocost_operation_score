@@ -1,5 +1,5 @@
 # Zero-Cost Operation Scoring in Differentiable Architecture Search (Zero-Cost-PT)
-Official impementation for NeurIPS 2022 submission: 
+Official impementation for AAAI 2023 submission: 
 "**Zero-Cost Operation Scoring in Differentiable Architecture Search**".
 
 
